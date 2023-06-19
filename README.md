@@ -1,4 +1,5 @@
 # Certified Kubernetes Application Developer - KPLABS
+https://m.do.co/c/74dcb0137794 -> Digital ocean
 https://github.com/cncf/curriculum/blob/master/CKAD_Curriculum_v1.25.pdf
 
 This is a central document which contains all the commands and code files used throughout the video course.
